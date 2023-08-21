@@ -1,2 +1,4 @@
 
-Create streamlit_app.py
+import streamlit
+
+streamlit.title("first app")
